@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bgTb">#72B899</color>
+    <color name="bgMain">#B8DACB</color>
+    <color name="tvBorrarP">#B31757</color>
+    <color name="textTb">#534660</color>
+    <color name="transparent">#00FFFFFF</color>
+
+
+
+</resources>
